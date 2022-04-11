@@ -1,4 +1,4 @@
-public class SuperHero {
+    public class SuperHero {
     private final String name;
     private final int intelligence;
     private final int strength;
@@ -16,8 +16,9 @@ public class SuperHero {
     private final String hairColor;
     private final String occupation;
 
+
     /**
-     * Creates a new SuperHero object based on the format of the data in the csv file.
+     * Creates a new Fast.SuperHero object based on the format of the data in the csv file.
      * Some fields are parsed into Integer values (ordinal data)
      * Other fields are parsed into String values (categorical data).
      */
@@ -46,10 +47,14 @@ public class SuperHero {
      * Cannot deal negative damage (e.g., if the other is much better at combat).
      * DO NOT modify
      */
-    public int attack(SuperHero oHero){
-        return Math.max(0, this.combat - oHero.combat);
+    public int attack(Fast.SuperHero oHero){
+        return Math.max(0, this.combat - oHero.getCombat());
     }
-
+    public int getSpeed(){return this.speed;}
+    public int getCombat(){return this.combat;}
+    public int getStrength(){return this.strength;}
+    public int getIntelligence(){return this.intelligence;}
+    public int getPower(){return this.intelligence;}
     /**
      * Reduce the incoming amount of damage based upon this object's durability.
      * Cannot reduce the damage below zero.
@@ -59,7 +64,7 @@ public class SuperHero {
 
     /**
      * Determines if the String of data meets the conditions for this class.
-     * For the SuperHero parent class, all data meet the conditions. For child
+     * For the Fast.SuperHero parent class, all data meet the conditions. For child
      * classes of this class, the fields must be checked to determine if the
      * attributes match the requirements of that class.
      * Do NOT modify.
@@ -75,7 +80,7 @@ public class SuperHero {
      * DO NOT modify.
      * @return positive int if this object defeats the other, negative if the other object defeats this one, zero if it is a tie
      */
-    public final int combat(SuperHero oHero){
+    public final int combat(Fast.SuperHero oHero){
         int damageToThem = this.attack(oHero);
         int damageToMe = oHero.attack(this);
 
@@ -93,3 +98,4 @@ public class SuperHero {
     }
 
 }
+

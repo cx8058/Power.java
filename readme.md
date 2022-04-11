@@ -41,33 +41,33 @@ Open up the file in the spreadsheet application of your choice (e.g., Excel, Goo
 The world of SuperHeroes is much more interesting and complex than this. High-intelligence alone may not be the sole reason a Superhero is powerful (in fact, from the box plot, high intelligence is the most common characteristic). Someone who is not just intelligent, but also has high speed, can make smart decisions and act on them much faster than someone who is slow. Someone may have high power, but low durability, and be unable to deal damage to an opponent with a higher combat ability. 
 
 **Deliverable 1:** 
-- Your first deliverable is to identify four classes of heroes that are found here based on their attributes. Document in the `responses.md` your four named classes and the criteria that you would use to define them. There are really no wrong answers, as long as they are based on attributes in the dataset and fight in a slightly different way than the basic `SuperHero` class. They cannot all be ordinal attributes, at least one class must use one of the categorical String attributes (e.g., hair color, occupation).
+- Your first deliverable is to identify four classes of heroes that are found here based on their attributes. Document in the `responses.md` your four named classes and the criteria that you would use to define them. There are really no wrong answers, as long as they are based on attributes in the dataset and fight in a slightly different way than the basic `Fast.SuperHero` class. They cannot all be ordinal attributes, at least one class must use one of the categorical String attributes (e.g., hair color, occupation).
 - Second, you must identify two child classes of heroes that are found here based on a two or more ordinal attributes in a certain range or categorical attributes that match a given value. These classes should extend from the descriptions of at least one of your categories defined above (they can both be from the same super class, or from two different classes). Document in the responses file your two named child classes and the criteria that you would use to define them. There are really no wrong answers, as long as they are based on two or more of the attributes in the dataset and fight in a slightly different way than their parent class.
 
 ## Step 2 - Develop Child Classes for your Categories
-In your src folder, we have provided you with a parent class called `SuperHero`. Each instance of your child classes *is-a* SuperHero. You may alter SuperHero by adding fields or adding/altering methods (except where indicated). A third class, `BattleRoyale`, contains the main method. 
+In your src folder, we have provided you with a parent class called `Fast.SuperHero`. Each instance of your child classes *is-a* Fast.SuperHero. You may alter Fast.SuperHero by adding fields or adding/altering methods (except where indicated). A third class, `BattleRoyale`, contains the main method. 
 
-The SuperHero class is used to create objects that store all the attributes of a SuperHero from the included datafile. Each of these is private, and should not be modified outside the class. You should write getter methods for any fields that you need to return, but do not provide setter methods as these fields are final. There is one constructor provided that takes each of the field values as an array of String objects and converts them to the appropriate type. This is particularly useful for reading csv files.
+The Fast.SuperHero class is used to create objects that store all the attributes of a Fast.SuperHero from the included datafile. Each of these is private, and should not be modified outside the class. You should write getter methods for any fields that you need to return, but do not provide setter methods as these fields are final. There is one constructor provided that takes each of the field values as an array of String objects and converts them to the appropriate type. This is particularly useful for reading csv files.
 
 Included in `DataReader` is a method `readDataFileAndClassify` that takes a file name and reads each line of the file as a String. For each String, it uses the `parseRow` method to split the String into an array of String objects. The array is equal in length to the number of values that were separated by commas in the original line, and the `parseRow` method checks each line to make sure enough data was present. 
 
-The String array represents the attributes of that superhero. The `readDataFileAndClassify` method must then decide what type of superhero will be created. So far, it only knows about `SuperHero` superhero types. To determine if a superhero record meets the criteria of being a SuperHero, it calls a static method `meetsConditions`. If true, then the superhero meets the conditions of being an object of that class and a new `SuperHero` is created and added to the growing arrayList of SuperHero objects. Keep this section in mind, because you will come back and modify this part of the code for each child class you create. 
+The String array represents the attributes of that superhero. The `readDataFileAndClassify` method must then decide what type of superhero will be created. So far, it only knows about `Fast.SuperHero` superhero types. To determine if a superhero record meets the criteria of being a Fast.SuperHero, it calls a static method `meetsConditions`. If true, then the superhero meets the conditions of being an object of that class and a new `Fast.SuperHero` is created and added to the growing arrayList of Fast.SuperHero objects. Keep this section in mind, because you will come back and modify this part of the code for each child class you create. 
 
 > A powerful hint - a superhero may meet the conditions of more than one of your classes - the order in which you check will likely affect how many of each type are created. You may want to check the more specific child classes BEFORE you check the conditions of a parent class. 
 
-The `SuperHero` class has a static implementation of the `meetsConditions` method that always returns true, because all records meet the conditions for being a basic superhero. All child classes should override this method with their own specific criteria.
+The `Fast.SuperHero` class has a static implementation of the `meetsConditions` method that always returns true, because all records meet the conditions for being a basic superhero. All child classes should override this method with their own specific criteria.
 
-The `SuperHero` class has a method called `attack` that takes another SuperHero as a parameter. It returns the difference between the combat attribute of the current SuperHero object and the other SuperHero object. Regardless of all their other powers and abilities, this is the basic method for determining how much damage one superhero would deal to another. If positive, it means that this superhero would deal that much damage to the other superhero. If zero, it means that no damage is dealt on this attack. A hero cannot deal negative damage.
+The `Fast.SuperHero` class has a method called `attack` that takes another Fast.SuperHero as a parameter. It returns the difference between the combat attribute of the current Fast.SuperHero object and the other Fast.SuperHero object. Regardless of all their other powers and abilities, this is the basic method for determining how much damage one superhero would deal to another. If positive, it means that this superhero would deal that much damage to the other superhero. If zero, it means that no damage is dealt on this attack. A hero cannot deal negative damage.
 
-The `SuperHero` class has a method called `defend` that takes an amount of damage as a parameter. It returns the difference between the durability attribute of the current SuperHero object and the damage to determine how much damage the hero can defend. Whatever is left over is returned as an int. 
+The `Fast.SuperHero` class has a method called `defend` that takes an amount of damage as a parameter. It returns the difference between the durability attribute of the current Fast.SuperHero object and the damage to determine how much damage the hero can defend. Whatever is left over is returned as an int. 
 
 Both the `attack` and `defend` methods are used by the `combat` method, which demonstrates what it means for one hero to fight another. Each hero attacks the other, and they both defend as much damage as they can. Whichever deals the most damage is the winner, as indicated by the returned integer.
 
 Your child classes will override the `attack` and `defend` methods, but not the `combat` method. It is `final`. The changes that you make to your child class attack/defend methods will influence how successful they are in the overall Battle Royale, but this will only affect the amount of damage they take or defend against. 
 
-> Lost in the multiverse? Some students are not quite sure what to do here, and what you are limited to. This part is fairly open-ended, but you must do something. If a hero is smart, maybe they deal extra damage on top of combat based on HOW smart they are? If they have red hair, maybe they deal extra damage to all other heroes that don't have red hair? Your classes may deal extra (or less) damage to specific other classes that you have created, creating a rock-paper-scissors scenario. The class of an object can always be determined through by getting the name of the class of an object as a String. See the `toString` of `SuperHero` for an example. 
+> Lost in the multiverse? Some students are not quite sure what to do here, and what you are limited to. This part is fairly open-ended, but you must do something. If a hero is smart, maybe they deal extra damage on top of combat based on HOW smart they are? If they have red hair, maybe they deal extra damage to all other heroes that don't have red hair? Your classes may deal extra (or less) damage to specific other classes that you have created, creating a rock-paper-scissors scenario. The class of an object can always be determined through by getting the name of the class of an object as a String. See the `toString` of `Fast.SuperHero` for an example. 
 
-To complete this step, you must design four child classes that extend `SuperHero` and overrides the `attack`, `defend`, and `meetsConditions` methods. They should use the methods of the parent classes through `super()`. These classes should match the names and fulfill the requirements of your categories above.
+To complete this step, you must design four child classes that extend `Fast.SuperHero` and overrides the `attack`, `defend`, and `meetsConditions` methods. They should use the methods of the parent classes through `super()`. These classes should match the names and fulfill the requirements of your categories above.
 
 **Deliverable 2:** Four child classes matching your category descriptions.
 
@@ -79,7 +79,7 @@ To complete this step, you must design two more classes that extend one or more 
 
 ## Step 4  - Ready to Rumble 
 
-In the `BattleRoyale` method, you should call the static `readDataFileAndClassify` method in `DataReader` to create an arraylist of SuperHero objects with all the appropriate classes that you have defined above. That means that, as promised, you will need to modify the `classifyHero` method to create each object depending on which criteria it meets for the child classes. 
+In the `BattleRoyale` method, you should call the static `readDataFileAndClassify` method in `DataReader` to create an arraylist of Fast.SuperHero objects with all the appropriate classes that you have defined above. That means that, as promised, you will need to modify the `classifyHero` method to create each object depending on which criteria it meets for the child classes. 
 
 Once you have your arraylist, it's time to Battle! Each superhero should fight each other superhero in the dataset. For each fight, use the `combat` method to determine a victor. Once you have a winner, track who won, lost, or if it is a tie. You may find it handy to add a method to one or more of your classes to update this data for that object or class.
 
@@ -94,11 +94,11 @@ Some conditions:
 
 ## Step 5  - Compare One to Another
 
-In the `SuperHero` class, you should implement the `compareTo()` method that allows one hero to be compared to another. You will also need to implement the appropriate interface. Once you are done, you will be able to sort a Collection of SuperHero objects using one of the built-in JDK implementations of sort.
+In the `Fast.SuperHero` class, you should implement the `compareTo()` method that allows one hero to be compared to another. You will also need to implement the appropriate interface. Once you are done, you will be able to sort a Collection of Fast.SuperHero objects using one of the built-in JDK implementations of sort.
 
-SuperHero objects should be compared by the ratio of wins to losses for that object. If the current object has a higher ratio, then the method should return positive. If the other object has a higher ratio, then the method should return negative. If they are equal to within one one-hundredth of a percent, then the method should return zero.
+Fast.SuperHero objects should be compared by the ratio of wins to losses for that object. If the current object has a higher ratio, then the method should return positive. If the other object has a higher ratio, then the method should return negative. If they are equal to within one one-hundredth of a percent, then the method should return zero.
 
-**Deliverable 5 :** The updated `SuperHero` class that allows objects to be compared to each other and sorted.
+**Deliverable 5 :** The updated `Fast.SuperHero` class that allows objects to be compared to each other and sorted.
 
 ## Step 6 - Report your Results
 
@@ -106,7 +106,7 @@ Once the battle has concluded, output your results to a file `results.txt` for s
 
 The report should consist of two formatted sections: 
 
-1. For each of your created child classes and `SuperHero` report the number of times they win, lose, and tie. Each class should get its own line. Underneath, report which child class won the most.
+1. For each of your created child classes and `Fast.SuperHero` report the number of times they win, lose, and tie. Each class should get its own line. Underneath, report which child class won the most.
 2. For each individual superhero, report how many times they win, lose, or tie. Each superhero should get its own line. This section should be sorted by the win/loss ratio of each hero (ascending). 
 
 **Deliverable 6 :** Your code generates a report with the required sections.
