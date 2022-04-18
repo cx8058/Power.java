@@ -15,13 +15,29 @@
     private final String eyeColor;
     private final String hairColor;
     private final String occupation;
+    public int win;
+    public int lose;
+    public int draw;
+    public int compare(SuperHero oHero) {
+        if (this.win > oHero.win){
+            return 10;
+        }
+        else if (this.win  < oHero.win) {
+            return -10;
+            //postive
+            //negative
+        }
+        else
+            return 0;
+    }
 
 
-    /**
-     * Creates a new Fast.SuperHero object based on the format of the data in the csv file.
-     * Some fields are parsed into Integer values (ordinal data)
-     * Other fields are parsed into String values (categorical data).
-     */
+
+            /**
+             * Creates a new Fast.SuperHero object based on the format of the data in the csv file.
+             * Some fields are parsed into Integer values (ordinal data)
+             * Other fields are parsed into String values (categorical data).
+             */
     public SuperHero(String[] fields){
         this.name = fields[0];
         this.intelligence = Integer.parseInt(fields[1]);
@@ -39,6 +55,9 @@
         this.eyeColor = fields[15];
         this.hairColor = fields[16];
         this.occupation = fields[17];
+        this.win = 0;
+        this.lose = 0;
+        this.draw = 0;
     }
 
     /**
@@ -47,7 +66,7 @@
      * Cannot deal negative damage (e.g., if the other is much better at combat).
      * DO NOT modify
      */
-    public int attack(Fast.SuperHero oHero){
+    public int attack(SuperHero oHero){
         return Math.max(0, this.combat - oHero.getCombat());
     }
     public int getSpeed(){return this.speed;}
@@ -55,7 +74,20 @@
     public int getStrength(){return this.strength;}
     public int getIntelligence(){return this.intelligence;}
     public int getPower(){return this.intelligence;}
-    /**
+    public void heroWin(){
+        win++;
+    }
+    public void heroLose(){
+            lose++;
+        }
+    public void FastWin() {win++; }
+    public void FastLose() {lose++; }
+
+        public void heroDraw(){
+            draw++;
+        }
+
+        /**
      * Reduce the incoming amount of damage based upon this object's durability.
      * Cannot reduce the damage below zero.
      * DO NOT modify
@@ -80,7 +112,7 @@
      * DO NOT modify.
      * @return positive int if this object defeats the other, negative if the other object defeats this one, zero if it is a tie
      */
-    public final int combat(Fast.SuperHero oHero){
+    public final int combat(SuperHero oHero){
         int damageToThem = this.attack(oHero);
         int damageToMe = oHero.attack(this);
 

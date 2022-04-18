@@ -1,5 +1,5 @@
-public class Fast extends SuperHero {
-    public Fast(String[] fields) {
+public class Genius extends Intelligence {
+    public Genius(String[] fields) {
         super(fields);
     }
 
@@ -8,27 +8,24 @@ public class Fast extends SuperHero {
         int result = this.getCombat() + this.getSpeed() - oHero.getCombat();
         if ( result > 0)
             this.heroWin();
-       else if ( result == 0)
+        else if ( result == 0)
             this.heroDraw();
-       else if ( result < 0)
+        else if ( result < 0)
             this.heroLose();
         return result;
 
     }
 
-    public int defend(int damage) {
-        int durability = 5;
+    public int defend(SuperHero oHero) {
+        int durability = 20;
+        int damage = 5;
         return Math.max(0, durability - damage);
     }
 
     public static boolean meetsConditions(String[] fields) {
-        if (Integer.parseInt(fields[0]) > 200) {
+        if (Integer.parseInt(fields[1]) >= 95) {
             return true;
         }
         return false;
     }
-
-        }
-
-
-
+}

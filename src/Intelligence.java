@@ -1,11 +1,18 @@
-public class Intelligence extends Fast.SuperHero {
+public class Intelligence extends SuperHero {
         public Intelligence(String[] fields){super (fields);}
         @Override
-        public int attack(Fast.SuperHero oHero){
-            return Math.max(0, this.getCombat() + this.getIntelligence() - oHero.getCombat());
+        public int attack(SuperHero oHero){
+            int result = this.getCombat() + this.getSpeed() - oHero.getCombat();
+            if ( result > 0)
+                this.heroWin();
+            else if ( result == 0)
+                this.heroDraw();
+            else if ( result < 0)
+                this.heroLose();
+            return result;
 
         }
-        public int defend(Fast.SuperHero oHero){
+        public int defend(SuperHero oHero){
             int durability = 20;
             int damage = 5;
             return Math.max(0, durability - damage);}

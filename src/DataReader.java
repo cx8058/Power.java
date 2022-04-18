@@ -11,8 +11,8 @@ public class DataReader {
      * attributes, then classify the hero based on those attributes.
      * DO NOT modify.
      */
-    public static ArrayList<Fast.SuperHero> readDataFileAndClassify(String fileName) throws IOException {
-        ArrayList<Fast.SuperHero> heroes = new ArrayList<>();
+    public static ArrayList<SuperHero> readDataFileAndClassify(String fileName) throws IOException {
+        ArrayList<SuperHero> heroes = new ArrayList<>();
         File file = new File(fileName);
         Scanner fileReader = new Scanner(file);
         fileReader.nextLine(); //skip headers
@@ -31,12 +31,12 @@ public class DataReader {
      * in the String array?
      * TODO: Definitely modify.
      */
-    public static Fast.SuperHero classifyHero(String[] fields) {
-        Fast.SuperHero hero = null;
+    public static SuperHero classifyHero(String[] fields) {
+        SuperHero hero = null;
 
         //Does it meet the conditions of the current superhero classes?
-        if (Fast.SuperHero.meetsConditions(fields)) {
-            hero = new Fast.SuperHero(fields);
+        if (SuperHero.meetsConditions(fields)) {
+            hero = new SuperHero(fields);
         }
         return hero;
     }

@@ -1,8 +1,15 @@
-public class Strength extends Fast.SuperHero {
+public class Strength extends Power {
         public Strength(String[] fields){super (fields); }
         @Override
-        public int attack(Fast.SuperHero oHero){
-            return Math.max(0, this.getCombat() + this.getStrength() - oHero.getCombat());
+        public int attack(SuperHero oHero){
+            int result = this.getCombat() + this.getSpeed() - oHero.getCombat();
+            if ( result > 0)
+                this.heroWin();
+            else if ( result == 0)
+                this.heroDraw();
+            else if ( result < 0)
+                this.heroLose();
+            return result;
         }
         public int defend(int damage) {
             int durability = 10;
