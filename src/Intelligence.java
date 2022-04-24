@@ -17,10 +17,21 @@ public class Intelligence extends SuperHero {
             int damage = 5;
             return Math.max(0, durability - damage);}
     public static boolean meetsConditions(String[] fields){
-        if (Integer.parseInt(fields[0]) > 50) {
+        if (Integer.parseInt(fields[1]) > 78){
             return true;
         }
         return false;
 
     }
+    public static int heroWin = 0;
+    public static int heroLose = 0;
+    public static int heroTie = 0;
+
+    public static void addWin() { heroWin++;}
+    public static void addLose() { heroLose++;}
+    public static void addTie() { heroTie++;}
+
+    public static int getWin() { return heroWin++;}
+    public static int getLose() { return heroLose++;}
+    public static int getTie() { return heroTie++;}
 }

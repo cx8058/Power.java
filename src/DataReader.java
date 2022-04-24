@@ -35,9 +35,35 @@ public class DataReader {
         SuperHero hero = null;
 
         //Does it meet the conditions of the current superhero classes?
-        if (SuperHero.meetsConditions(fields)) {
-            hero = new SuperHero(fields);
+
+        if (Fast.meetsConditions(fields)) {
+            hero = new Fast(fields);
+
         }
+        else if (Strength.meetsConditions(fields)) {
+            hero = new Strength(fields);
+
+        }
+        else if (Power.meetsConditions(fields)) {
+            hero = new Power(fields);
+
+        }
+        else if (Genius.meetsConditions(fields)) {
+            hero = new Genius(fields);
+
+        }
+        else if (Intelligence.meetsConditions(fields)) {
+            hero = new Intelligence(fields);
+
+        }
+        else if (Heal.meetsConditions(fields)) {
+            hero = new Heal(fields);
+
+        }
+
+        else if (SuperHero.meetsConditions(fields)) {
+                hero = new SuperHero(fields);
+            }
         return hero;
     }
 

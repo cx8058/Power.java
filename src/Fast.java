@@ -22,12 +22,22 @@ public class Fast extends SuperHero {
     }
 
     public static boolean meetsConditions(String[] fields) {
-        if (Integer.parseInt(fields[0]) > 200) {
+        if (Integer.parseInt(fields[3]) > 70) {
             return true;
         }
         return false;
     }
+    public static int heroWin = 0;
+    public static int heroLose = 0;
+    public static int heroTie = 0;
 
+    public static void addWin() { heroWin++;}
+    public static void addLose() { heroLose++;}
+    public static void addTie() { heroTie++;}
+
+    public static int getWin() { return heroWin++;}
+    public static int getLose() { return heroLose++;}
+    public static int getTie() { return heroTie++;}
         }
 
 
