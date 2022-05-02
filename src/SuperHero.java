@@ -73,7 +73,7 @@
     public int getCombat(){return this.combat;}
     public int getStrength(){return this.strength;}
     public int getIntelligence(){return this.intelligence;}
-    public int getPower(){return this.intelligence;}
+    public int getPower(){return this.power;}
     public void heroWin(){
         win++;
     }

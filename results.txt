@@ -1,0 +1,492 @@
+Fast class: 19287 | 4974 | 52879
+Genius class: 12516 | 13701 | 5038
+Heal class: 2545 | 445 | 1665
+Intelligence class: 59211 | 53960 | 22489
+Power class: 52599 | 42748 | 23688
+Strength class: 6602 | 10266 | 13057
+SuperHero class: 7817 | 34483 | 2255
+ 
+Franklin Storm SuperHero win: 0 lose: 664 draw: 1
+Daphne Powell SuperHero win: 1 lose: 663 draw: 1
+Jar Jar Binks SuperHero win: 2 lose: 658 draw: 5
+Agent Bob SuperHero win: 5 lose: 656 draw: 4
+Aquababy SuperHero win: 7 lose: 655 draw: 3
+Leech SuperHero win: 7 lose: 655 draw: 3
+Quill SuperHero win: 7 lose: 655 draw: 3
+Stormtrooper SuperHero win: 10 lose: 652 draw: 3
+Paul Blart SuperHero win: 17 lose: 643 draw: 5
+Pyro SuperHero win: 17 lose: 639 draw: 9
+Greedo SuperHero win: 25 lose: 615 draw: 25
+Scorpia SuperHero win: 25 lose: 630 draw: 10
+Micro Lad SuperHero win: 30 lose: 616 draw: 19
+Cypher SuperHero win: 35 lose: 611 draw: 19
+Parademon SuperHero win: 38 lose: 611 draw: 16
+Angel Dust SuperHero win: 39 lose: 608 draw: 18
+Heat Wave SuperHero win: 39 lose: 608 draw: 18
+Wyatt Wingfoot SuperHero win: 42 lose: 581 draw: 42
+Atom Girl SuperHero win: 44 lose: 588 draw: 33
+Bird-Brain SuperHero win: 44 lose: 588 draw: 33
+Light Lass SuperHero win: 44 lose: 588 draw: 33
+Lightning Lad SuperHero win: 44 lose: 588 draw: 33
+Phantom Girl SuperHero win: 44 lose: 588 draw: 33
+Siryn SuperHero win: 44 lose: 588 draw: 33
+Red Mist SuperHero win: 56 lose: 561 draw: 48
+Alex Woolsly SuperHero win: 61 lose: 578 draw: 26
+Ando Masahashi SuperHero win: 63 lose: 583 draw: 19
+Moloch SuperHero win: 66 lose: 572 draw: 27
+Cheetah II SuperHero win: 73 lose: 554 draw: 38
+Lightning Lord SuperHero win: 73 lose: 556 draw: 36
+Wolfsbane SuperHero win: 73 lose: 556 draw: 36
+Bushido SuperHero win: 86 lose: 513 draw: 66
+Jim Powell SuperHero win: 87 lose: 559 draw: 19
+Man-Bat SuperHero win: 87 lose: 554 draw: 24
+Tiger Shark SuperHero win: 87 lose: 554 draw: 24
+Angel Salvadore SuperHero win: 92 lose: 527 draw: 46
+Diamondback SuperHero win: 92 lose: 527 draw: 46
+Tempest SuperHero win: 92 lose: 527 draw: 46
+Cheetah SuperHero win: 107 lose: 493 draw: 65
+Blackwing SuperHero win: 110 lose: 516 draw: 39
+Kick-Ass SuperHero win: 110 lose: 516 draw: 39
+Falcon SuperHero win: 117 lose: 498 draw: 50
+Bananaman SuperHero win: 120 lose: 527 draw: 18
+Big Daddy SuperHero win: 127 lose: 484 draw: 54
+Blizzard II SuperHero win: 133 lose: 495 draw: 37
+Feral SuperHero win: 136 lose: 472 draw: 57
+Gary Bell Intelligence win: 146 lose: 4455 draw: 66
+JJ Powell Genius win: 146 lose: 4455 draw: 66
+Rachel Pirzad Intelligence win: 146 lose: 4455 draw: 66
+Morph SuperHero win: 147 lose: 476 draw: 42
+Ammo SuperHero win: 148 lose: 454 draw: 63
+Boom-Boom SuperHero win: 153 lose: 452 draw: 60
+Meltdown SuperHero win: 153 lose: 452 draw: 60
+Purple Man Power win: 158 lose: 4439 draw: 66
+Bantam SuperHero win: 160 lose: 452 draw: 53
+Batgirl SuperHero win: 170 lose: 438 draw: 57
+Thundra SuperHero win: 177 lose: 445 draw: 43
+Corsair SuperHero win: 179 lose: 419 draw: 67
+Arclight SuperHero win: 187 lose: 423 draw: 55
+Hobgoblin SuperHero win: 191 lose: 438 draw: 36
+Phantom SuperHero win: 200 lose: 377 draw: 88
+Hydro-Man SuperHero win: 219 lose: 419 draw: 27
+Anti-Spawn SuperHero win: 229 lose: 388 draw: 48
+Hawk SuperHero win: 267 lose: 374 draw: 24
+Spider-Man SuperHero win: 268 lose: 344 draw: 53
+Yellowjacket Genius win: 274 lose: 4124 draw: 275
+Maya Herrera Intelligence win: 275 lose: 4128 draw: 276
+Micah Sanders Intelligence win: 275 lose: 4128 draw: 276
+Nina Theroux Intelligence win: 275 lose: 4128 draw: 276
+Riddler Genius win: 275 lose: 4128 draw: 276
+Violet Parr Power win: 285 lose: 4116 draw: 274
+Walrus Intelligence win: 287 lose: 4112 draw: 276
+Ms Marvel II SuperHero win: 304 lose: 331 draw: 30
+Howard the Duck SuperHero win: 330 lose: 284 draw: 51
+Killer Croc SuperHero win: 332 lose: 295 draw: 38
+Spider-Carnage SuperHero win: 366 lose: 259 draw: 40
+Blob SuperHero win: 485 lose: 150 draw: 30
+Power Man SuperHero win: 494 lose: 143 draw: 28
+Cottonmouth Intelligence win: 553 lose: 4017 draw: 119
+Blackwulf Intelligence win: 563 lose: 4007 draw: 123
+Rip Hunter Power win: 580 lose: 3992 draw: 121
+Captain Cold Intelligence win: 675 lose: 3873 draw: 157
+Tinkerer Genius win: 677 lose: 3876 draw: 162
+Brundlefly Intelligence win: 679 lose: 3866 draw: 158
+MODOK Power win: 690 lose: 3858 draw: 157
+Mr Immortal Intelligence win: 780 lose: 3761 draw: 150
+Negasonic Teenage Warhead Intelligence win: 817 lose: 3615 draw: 281
+Solomon Grundy Strength win: 817 lose: 3616 draw: 282
+Two-Face Genius win: 818 lose: 3614 draw: 281
+Killer Frost Genius win: 831 lose: 3599 draw: 279
+Ariel Power win: 846 lose: 3583 draw: 282
+Claire Bennet Power win: 846 lose: 3583 draw: 282
+Mister Freeze Intelligence win: 878 lose: 3549 draw: 288
+Bling! Intelligence win: 910 lose: 3514 draw: 285
+Chameleon Genius win: 1091 lose: 3440 draw: 188
+Indiana Jones Intelligence win: 1091 lose: 3440 draw: 188
+Ant-Man II Intelligence win: 1101 lose: 3430 draw: 192
+Plantman Intelligence win: 1115 lose: 3413 draw: 189
+Junkpile Power win: 1116 lose: 3413 draw: 190
+Vibe Power win: 1116 lose: 3413 draw: 190
+Professor X Power win: 1126 lose: 3407 draw: 190
+Spyke Intelligence win: 1129 lose: 3401 draw: 187
+Man-Thing Power win: 1130 lose: 3402 draw: 189
+Proto-Goblin Intelligence win: 1289 lose: 3300 draw: 138
+Violator Power win: 1289 lose: 3300 draw: 138
+Kevin 11 Power win: 1306 lose: 3282 draw: 141
+Darkman Genius win: 1307 lose: 3281 draw: 141
+Hawkeye II Intelligence win: 1371 lose: 2859 draw: 511
+Bumblebee Intelligence win: 1373 lose: 2862 draw: 516
+Clock King Intelligence win: 1373 lose: 2860 draw: 514
+Ymir Strength win: 1375 lose: 2864 draw: 520
+Ant-Man Genius win: 1385 lose: 2843 draw: 513
+Brainiac 5 Genius win: 1385 lose: 2843 draw: 513
+Leader Genius win: 1388 lose: 2850 draw: 519
+Penguin Genius win: 1398 lose: 2824 draw: 507
+Spider-Woman III Intelligence win: 1399 lose: 2827 draw: 511
+Spock Genius win: 1404 lose: 2821 draw: 510
+Green Lantern Power win: 1416 lose: 2811 draw: 508
+Rey Power win: 1416 lose: 2811 draw: 508
+Elle Bishop Intelligence win: 1417 lose: 2801 draw: 523
+Q Power win: 1419 lose: 2800 draw: 524
+Scarecrow Genius win: 1886 lose: 2453 draw: 428
+Yellowjacket II Intelligence win: 1893 lose: 2454 draw: 436
+Stephanie Powell Intelligence win: 1901 lose: 2471 draw: 461
+Gravity Intelligence win: 1902 lose: 2439 draw: 430
+Forge Intelligence win: 1908 lose: 2429 draw: 426
+Enchantress Power win: 1931 lose: 2404 draw: 424
+Living Brain Intelligence win: 1931 lose: 2404 draw: 424
+Phantom Stranger Power win: 1931 lose: 2404 draw: 424
+Justice Intelligence win: 1949 lose: 2384 draw: 426
+Robocop Intelligence win: 2010 lose: 2317 draw: 436
+Giganta Strength win: 2282 lose: 2062 draw: 457
+Plastique Intelligence win: 2307 lose: 2033 draw: 453
+Shriek Intelligence win: 2307 lose: 2033 draw: 453
+Green Goblin II Intelligence win: 2318 lose: 2019 draw: 454
+Raven Power win: 2325 lose: 2004 draw: 446
+Triplicate Girl Intelligence win: 2325 lose: 2004 draw: 446
+Etrigan Power win: 2335 lose: 1987 draw: 439
+Ink Power win: 2335 lose: 1987 draw: 439
+Havok Power win: 2336 lose: 1994 draw: 443
+Misfit Power win: 2336 lose: 1994 draw: 443
+Wildfire Power win: 2336 lose: 1994 draw: 443
+Sasquatch Intelligence win: 2369 lose: 1966 draw: 452
+Armor Intelligence win: 2435 lose: 1879 draw: 439
+Alfred Pennyworth Intelligence win: 2716 lose: 1788 draw: 329
+Vulture Intelligence win: 2722 lose: 1792 draw: 339
+Bionic Woman Intelligence win: 2727 lose: 1761 draw: 313
+Crystal Intelligence win: 2728 lose: 1772 draw: 325
+Jolt Intelligence win: 2728 lose: 1761 draw: 314
+Matt Parkman Intelligence win: 2728 lose: 1772 draw: 325
+Sage Intelligence win: 2728 lose: 1772 draw: 325
+Saturn Girl Power win: 2729 lose: 1768 draw: 322
+Vixen Intelligence win: 2729 lose: 1768 draw: 322
+Kathryn Janeway Intelligence win: 2731 lose: 1769 draw: 325
+Godzilla Strength win: 2738 lose: 1803 draw: 366
+Data Genius win: 2743 lose: 1744 draw: 312
+John Constantine Intelligence win: 2775 lose: 1707 draw: 307
+Atlas Power win: 2776 lose: 1716 draw: 317
+Bill Harken Intelligence win: 2776 lose: 1716 draw: 317
+Doctor Fate Power win: 2776 lose: 1716 draw: 317
+Harry Potter Power win: 2776 lose: 1716 draw: 317
+Jason Voorhees Power win: 2776 lose: 1716 draw: 317
+Warp Power win: 2776 lose: 1716 draw: 317
+Moses Magnum Intelligence win: 2777 lose: 1705 draw: 307
+Doctor Strange Power win: 2781 lose: 1694 draw: 304
+Nebula Intelligence win: 2781 lose: 1694 draw: 304
+DL Hawkins Intelligence win: 2815 lose: 1669 draw: 313
+Mr Incredible Intelligence win: 2834 lose: 1619 draw: 286
+Elongated Man Intelligence win: 2844 lose: 1630 draw: 303
+Sebastian Shaw Intelligence win: 2893 lose: 1546 draw: 284
+Katniss Everdeen Intelligence win: 3007 lose: 1372 draw: 456
+Metron Power win: 3008 lose: 1371 draw: 456
+Han Solo Intelligence win: 3010 lose: 1372 draw: 459
+Swamp Thing Strength win: 3015 lose: 1389 draw: 481
+Clea Power win: 3019 lose: 1361 draw: 457
+Silverclaw Intelligence win: 3019 lose: 1355 draw: 451
+Jack-Jack Power win: 3022 lose: 1390 draw: 489
+Deadman Power win: 3051 lose: 1334 draw: 462
+Emma Frost Power win: 3051 lose: 1334 draw: 462
+Liz Sherman Power win: 3051 lose: 1322 draw: 450
+Mephisto Power win: 3051 lose: 1334 draw: 462
+Adam Monroe Power win: 3085 lose: 1285 draw: 459
+Black Knight III Intelligence win: 3146 lose: 1200 draw: 423
+A-Bomb Strength win: 3425 lose: 1060 draw: 418
+Copycat Intelligence win: 3425 lose: 1043 draw: 401
+Wonder Girl Strength win: 3425 lose: 1064 draw: 422
+Jean-Luc Picard Intelligence win: 3451 lose: 1014 draw: 398
+Mister Knife Intelligence win: 3451 lose: 1014 draw: 398
+Firebird Power win: 3454 lose: 1011 draw: 398
+Box IV Intelligence win: 3456 lose: 1023 draw: 412
+Goblin Queen Intelligence win: 3456 lose: 1023 draw: 412
+Adam Strange Intelligence win: 3457 lose: 1022 draw: 412
+Booster Gold Power win: 3457 lose: 1022 draw: 412
+Static Power win: 3457 lose: 1022 draw: 412
+Snowbird Intelligence win: 3458 lose: 1002 draw: 393
+Ghost Rider Power win: 3487 lose: 976 draw: 396
+Plastic Man Power win: 3487 lose: 976 draw: 396
+Shocker Power win: 3487 lose: 976 draw: 396
+Sobek Intelligence win: 3487 lose: 976 draw: 396
+Synch Power win: 3487 lose: 976 draw: 396
+Zatanna Power win: 3487 lose: 976 draw: 396
+Giant-Man Genius win: 3488 lose: 975 draw: 396
+Blink Power win: 3495 lose: 961 draw: 389
+T-800 Power win: 3495 lose: 961 draw: 389
+Swarm Intelligence win: 3504 lose: 931 draw: 368
+Joker Genius win: 3531 lose: 913 draw: 377
+Mister Fantastic Genius win: 3544 lose: 893 draw: 370
+Chamber Intelligence win: 3552 lose: 859 draw: 360
+Molten Man Intelligence win: 3552 lose: 859 draw: 360
+Iron Monger Genius win: 3565 lose: 841 draw: 351
+Blue Beetle III Power win: 3795 lose: 821 draw: 333
+Rocket Raccoon Intelligence win: 3808 lose: 791 draw: 316
+Beast Boy Power win: 3809 lose: 797 draw: 323
+Polaris Power win: 3809 lose: 789 draw: 315
+Toad Intelligence win: 3809 lose: 797 draw: 323
+Onslaught Strength win: 3810 lose: 835 draw: 362
+Firestar Power win: 3814 lose: 806 draw: 337
+Songbird Intelligence win: 3826 lose: 770 draw: 313
+Dazzler Power win: 3828 lose: 769 draw: 314
+Changeling Intelligence win: 3829 lose: 756 draw: 302
+Green Goblin Genius win: 3830 lose: 755 draw: 302
+Dr Manhattan Strength win: 3831 lose: 837 draw: 385
+Invisible Woman Power win: 3831 lose: 755 draw: 303
+Mysterio Power win: 3837 lose: 730 draw: 284
+King Shark Strength win: 3838 lose: 838 draw: 393
+Absorbing Man Power win: 3852 lose: 736 draw: 305
+Bishop Power win: 3852 lose: 736 draw: 305
+Chewbacca Intelligence win: 3852 lose: 736 draw: 305
+Metallo Power win: 3852 lose: 736 draw: 305
+Utgard-Loki Power win: 3852 lose: 736 draw: 305
+White Queen Intelligence win: 3853 lose: 735 draw: 305
+Hope Summers Power win: 3860 lose: 712 draw: 289
+Deathlok Intelligence win: 3876 lose: 691 draw: 284
+Ajax Intelligence win: 3889 lose: 671 draw: 281
+Multiple Man Intelligence win: 3889 lose: 671 draw: 281
+She-Thing Intelligence win: 3899 lose: 639 draw: 259
+Captain Marvel II Intelligence win: 3927 lose: 614 draw: 262
+Drax the Destroyer Intelligence win: 3927 lose: 614 draw: 262
+Frenzy Intelligence win: 3931 lose: 601 draw: 253
+Red Skull Intelligence win: 4023 lose: 639 draw: 283
+Mimic Power win: 4025 lose: 632 draw: 278
+Shadowcat Genius win: 4025 lose: 634 draw: 280
+Niki Sanders Intelligence win: 4037 lose: 634 draw: 292
+Robin VI Intelligence win: 4037 lose: 636 draw: 294
+Hit-Girl Intelligence win: 4042 lose: 641 draw: 304
+Big Man Intelligence win: 4046 lose: 618 draw: 285
+Cameron Hicks Intelligence win: 4046 lose: 618 draw: 285
+James T. Kirk Intelligence win: 4047 lose: 607 draw: 275
+Alex Mercer Power win: 4050 lose: 615 draw: 286
+Atom II Genius win: 4051 lose: 604 draw: 276
+Apocalypse Strength win: 4052 lose: 662 draw: 335
+Citizen Steel Strength win: 4052 lose: 662 draw: 335
+Kingpin Intelligence win: 4063 lose: 587 draw: 271
+Angel Intelligence win: 4066 lose: 585 draw: 272
+Morlun Power win: 4066 lose: 585 draw: 272
+Offspring Power win: 4066 lose: 585 draw: 272
+Venom III Power win: 4066 lose: 585 draw: 272
+Fin Fang Foom Power win: 4076 lose: 562 draw: 259
+Jean Grey Power win: 4076 lose: 562 draw: 259
+Hela Strength win: 4079 lose: 666 draw: 366
+Rogue Power win: 4104 lose: 524 draw: 249
+Medusa Intelligence win: 4105 lose: 522 draw: 248
+Lex Luthor Genius win: 4111 lose: 506 draw: 238
+Bullseye Intelligence win: 4117 lose: 491 draw: 229
+Klaw Intelligence win: 4148 lose: 426 draw: 199
+The Comedian Intelligence win: 4218 lose: 327 draw: 466
+3-D Man Intelligence win: 4219 lose: 321 draw: 461
+Firestorm Power win: 4220 lose: 320 draw: 461
+Azrael Intelligence win: 4226 lose: 302 draw: 449
+Franklin Richards Power win: 4227 lose: 299 draw: 447
+Indigo Power win: 4227 lose: 299 draw: 447
+Mister Sinister Power win: 4227 lose: 299 draw: 447
+Robin V Intelligence win: 4236 lose: 322 draw: 479
+Thunderbird Intelligence win: 4242 lose: 284 draw: 447
+Doctor Octopus Genius win: 4244 lose: 283 draw: 448
+Black Mamba Power win: 4250 lose: 260 draw: 431
+Darkhawk Power win: 4250 lose: 260 draw: 431
+Darkstar Power win: 4250 lose: 260 draw: 431
+Evilhawk Power win: 4250 lose: 260 draw: 431
+Gorilla Grodd Power win: 4250 lose: 260 draw: 431
+Groot Power win: 4250 lose: 260 draw: 431
+Moon Knight Intelligence win: 4258 lose: 243 draw: 422
+Exodus Power win: 4259 lose: 242 draw: 422
+Longshot Power win: 4259 lose: 242 draw: 422
+Poison Ivy Power win: 4259 lose: 242 draw: 422
+Hellboy Power win: 4273 lose: 222 draw: 416
+T-850 Power win: 4273 lose: 222 draw: 416
+Maverick Intelligence win: 4279 lose: 208 draw: 408
+Sylar Power win: 4289 lose: 191 draw: 401
+Machine Man Intelligence win: 4305 lose: 140 draw: 366
+Magog Intelligence win: 4310 lose: 168 draw: 399
+Mystique Intelligence win: 4310 lose: 168 draw: 399
+Husk Intelligence win: 4313 lose: 149 draw: 383
+Luke Cage Intelligence win: 4317 lose: 97 draw: 347
+Luna Fast win: 4349 lose: 341 draw: 611
+Domino Intelligence win: 4567 lose: 252 draw: 176
+Firestorm Power win: 4577 lose: 268 draw: 202
+Miss Martian Power win: 4577 lose: 268 draw: 202
+Demogoblin Intelligence win: 4578 lose: 268 draw: 203
+Batgirl VI Intelligence win: 4580 lose: 237 draw: 174
+Deadshot Intelligence win: 4580 lose: 237 draw: 174
+Oracle Intelligence win: 4580 lose: 237 draw: 174
+Red Arrow Intelligence win: 4581 lose: 258 draw: 196
+Aqualad Power win: 4582 lose: 234 draw: 173
+Archangel Intelligence win: 4582 lose: 234 draw: 173
+Speedy Intelligence win: 4586 lose: 276 draw: 219
+Hawkeye Intelligence win: 4587 lose: 278 draw: 222
+Ronin Intelligence win: 4587 lose: 278 draw: 222
+Wasp Intelligence win: 4588 lose: 253 draw: 198
+Black Cat Intelligence win: 4591 lose: 289 draw: 237
+Crimson Crusader Power win: 4596 lose: 216 draw: 169
+Dagger Intelligence win: 4597 lose: 216 draw: 170
+Hellcat Intelligence win: 4597 lose: 216 draw: 170
+Man-Wolf Intelligence win: 4597 lose: 216 draw: 170
+Jessica Jones Intelligence win: 4608 lose: 182 draw: 147
+Kylo Ren Power win: 4608 lose: 196 draw: 161
+Sauron Power win: 4608 lose: 196 draw: 161
+Shadow King Power win: 4608 lose: 182 draw: 147
+Star-Lord Intelligence win: 4608 lose: 196 draw: 161
+Sunspot Power win: 4608 lose: 196 draw: 161
+Triton Intelligence win: 4608 lose: 196 draw: 161
+Buffy Intelligence win: 4615 lose: 168 draw: 140
+Cable Power win: 4615 lose: 168 draw: 140
+Cyclops Power win: 4615 lose: 168 draw: 140
+Green Lantern Strength win: 4620 lose: 294 draw: 271
+Rorschach Intelligence win: 4624 lose: 233 draw: 202
+Green Lantern Strength win: 4626 lose: 297 draw: 280
+Brother Voodoo Power win: 4627 lose: 207 draw: 179
+Cloak Power win: 4627 lose: 207 draw: 179
+Loki Power win: 4627 lose: 207 draw: 179
+Namora Intelligence win: 4627 lose: 207 draw: 179
+Sandman Power win: 4627 lose: 207 draw: 179
+Boba Fett Intelligence win: 4628 lose: 207 draw: 180
+Batwoman V Genius win: 4630 lose: 222 draw: 197
+Sinestro Power win: 4632 lose: 219 draw: 196
+Gambit Intelligence win: 4636 lose: 192 draw: 173
+Kraven II Intelligence win: 4636 lose: 192 draw: 173
+James Bond (Craig) Genius win: 4638 lose: 165 draw: 148
+Jennifer Kale Power win: 4638 lose: 163 draw: 146
+T-1000 Power win: 4638 lose: 163 draw: 146
+Question Genius win: 4639 lose: 190 draw: 174
+Red Robin Genius win: 4639 lose: 190 draw: 174
+Cyborg Power win: 4640 lose: 188 draw: 173
+Doctor Doom Power win: 4640 lose: 145 draw: 142
+Green Lantern Power win: 4640 lose: 188 draw: 173
+Ultron Power win: 4640 lose: 188 draw: 173
+Alien Intelligence win: 4644 lose: 104 draw: 105
+Doc Samson Intelligence win: 4644 lose: 104 draw: 105
+Red Tornado Power win: 4644 lose: 243 draw: 232
+Osiris Intelligence win: 4647 lose: 126 draw: 130
+Human Torch Power win: 4648 lose: 233 draw: 226
+Thing Intelligence win: 4654 lose: 33 draw: 44
+Callisto Intelligence win: 4657 lose: 143 draw: 145
+Magneto Power win: 4657 lose: 143 draw: 145
+Scarlet Witch Power win: 4657 lose: 143 draw: 145
+T-X Power win: 4657 lose: 143 draw: 145
+Venom II Intelligence win: 4657 lose: 143 draw: 145
+Elastigirl Intelligence win: 4659 lose: 61 draw: 77
+Starfire Intelligence win: 4660 lose: 86 draw: 103
+Blackout Intelligence win: 4661 lose: 102 draw: 108
+Maxima Strength win: 4662 lose: 248 draw: 255
+Deathstroke Intelligence win: 4664 lose: 5 draw: 14
+Gog Intelligence win: 4665 lose: 124 draw: 134
+Sabretooth Intelligence win: 4665 lose: 2 draw: 12
+X-23 Intelligence win: 4666 lose: 0 draw: 11
+Colossus Intelligence win: 4668 lose: 23 draw: 36
+Predator Power win: 4673 lose: 103 draw: 121
+Psylocke Power win: 4673 lose: 103 draw: 121
+Toxin Power win: 4674 lose: 150 draw: 169
+Battlestar Intelligence win: 4675 lose: 85 draw: 105
+Bloodhawk Power win: 4675 lose: 161 draw: 181
+Frigga Power win: 4675 lose: 161 draw: 181
+Robin Genius win: 4675 lose: 163 draw: 183
+Robin II Intelligence win: 4675 lose: 163 draw: 183
+Robin III Genius win: 4675 lose: 163 draw: 183
+Gamora Intelligence win: 4677 lose: 2 draw: 24
+Skaar Intelligence win: 4678 lose: 27 draw: 50
+Abomination Intelligence win: 4679 lose: 0 draw: 24
+Harley Quinn Genius win: 4682 lose: 85 draw: 112
+Ultragirl Intelligence win: 4682 lose: 73 draw: 100
+Annihilus Intelligence win: 4683 lose: 134 draw: 162
+Electro Intelligence win: 4683 lose: 134 draw: 162
+John Wraith Power win: 4683 lose: 120 draw: 148
+Mantis Power win: 4683 lose: 120 draw: 148
+Space Ghost Power win: 4683 lose: 120 draw: 148
+Firelord Fast win: 4685 lose: 300 draw: 342
+Spider-Woman Intelligence win: 4685 lose: 119 draw: 149
+Master Chief Intelligence win: 4686 lose: 5 draw: 36
+Jubilee Intelligence win: 4688 lose: 173 draw: 206
+Kraven the Hunter Intelligence win: 4689 lose: 110 draw: 144
+Lady Deathstrike Intelligence win: 4692 lose: 9 draw: 46
+Batman Genius win: 4696 lose: 70 draw: 111
+Mach-IV Intelligence win: 4696 lose: 70 draw: 111
+Bane Genius win: 4697 lose: 49 draw: 91
+Steel Genius win: 4697 lose: 49 draw: 91
+Captain Hindsight Fast win: 4698 lose: 301 draw: 356
+Mandarin Power win: 4698 lose: 70 draw: 113
+Scarlet Spider Intelligence win: 4699 lose: 95 draw: 139
+Namorita Intelligence win: 4700 lose: 82 draw: 127
+Winter Soldier Intelligence win: 4700 lose: 58 draw: 103
+Abe Sapien Power win: 4701 lose: 95 draw: 141
+Beta Ray Bill Power win: 4701 lose: 95 draw: 141
+Bloodaxe Power win: 4701 lose: 95 draw: 141
+Black Canary Intelligence win: 4703 lose: 191 draw: 239
+Green Lantern Strength win: 4704 lose: 253 draw: 302
+Beast Genius win: 4708 lose: 58 draw: 111
+Scorpion Intelligence win: 4708 lose: 11 draw: 64
+Batgirl IV Intelligence win: 4709 lose: 27 draw: 81
+Black Panther Genius win: 4709 lose: 27 draw: 81
+Savage Dragon Intelligence win: 4709 lose: 27 draw: 81
+Nick Fury Intelligence win: 4710 lose: 58 draw: 113
+Punisher Intelligence win: 4710 lose: 58 draw: 113
+Huntress Intelligence win: 4711 lose: 113 draw: 169
+Michelangelo Intelligence win: 4711 lose: 70 draw: 126
+Red Hood Intelligence win: 4711 lose: 113 draw: 169
+Rick Flag Genius win: 4711 lose: 113 draw: 169
+Yoda Power win: 4711 lose: 70 draw: 126
+Donatello Genius win: 4714 lose: 81 draw: 140
+Vindicator Intelligence win: 4714 lose: 81 draw: 140
+Arachne Power win: 4715 lose: 124 draw: 184
+Atom IV Intelligence win: 4715 lose: 124 draw: 184
+Nite Owl II Intelligence win: 4715 lose: 124 draw: 184
+Stargirl Power win: 4715 lose: 124 draw: 184
+Storm Power win: 4715 lose: 104 draw: 164
+Batgirl Genius win: 4716 lose: 95 draw: 156
+Black Canary Intelligence win: 4717 lose: 196 draw: 258
+Iceman Power win: 4718 lose: 136 draw: 199
+Leonardo Intelligence win: 4718 lose: 47 draw: 110
+Raphael Intelligence win: 4718 lose: 47 draw: 110
+Batman Genius win: 4719 lose: 38 draw: 102
+Shang-Chi Intelligence win: 4719 lose: 38 draw: 102
+Shatterstar Intelligence win: 4719 lose: 38 draw: 102
+Catwoman Intelligence win: 4720 lose: 136 draw: 201
+Darth Vader Power win: 4722 lose: 32 draw: 99
+Iron Fist Power win: 4722 lose: 32 draw: 99
+Ares Power win: 4724 lose: 20 draw: 89
+Captain America Intelligence win: 4724 lose: 20 draw: 89
+Cogliostro Power win: 4725 lose: 146 draw: 216
+Lizard Power win: 4725 lose: 146 draw: 216
+Thanos Strength win: 4729 lose: 201 draw: 275
+Thanos (Infinity Gauntlet) Strength win: 4729 lose: 201 draw: 275
+Thunderstrike Intelligence win: 4729 lose: 10 draw: 84
+Blade Intelligence win: 4730 lose: 55 draw: 130
+Captain Britain Intelligence win: 4730 lose: 55 draw: 130
+Agent 13 Intelligence win: 4734 lose: 65 draw: 144
+Agent Zero Power win: 4734 lose: 35 draw: 114
+Blue Beetle II Intelligence win: 4734 lose: 35 draw: 114
+Judge Dredd Intelligence win: 4734 lose: 35 draw: 114
+Ra's Al Ghul Genius win: 4734 lose: 35 draw: 114
+Batgirl III Intelligence win: 4735 lose: 4 draw: 84
+Green Arrow Genius win: 4735 lose: 108 draw: 188
+Doctor Doom II Power win: 4737 lose: 107 draw: 189
+Vision Power win: 4737 lose: 107 draw: 189
+Fixer Intelligence win: 4742 lose: 44 draw: 131
+Luke Skywalker Power win: 4742 lose: 18 draw: 105
+Spider-Girl Intelligence win: 4742 lose: 44 draw: 131
+Spider-Gwen Intelligence win: 4742 lose: 44 draw: 131
+Elektra Intelligence win: 4745 lose: 75 draw: 165
+Animal Man Power win: 4747 lose: 73 draw: 165
+Azazel Power win: 4747 lose: 73 draw: 165
+Marvel Girl Power win: 4747 lose: 73 draw: 165
+Moonstone Power win: 4747 lose: 73 draw: 165
+Nightcrawler Power win: 4747 lose: 73 draw: 165
+Arsenal Intelligence win: 4748 lose: 22 draw: 115
+Blizzard Power win: 4748 lose: 116 draw: 209
+Crimson Dynamo Power win: 4748 lose: 116 draw: 209
+Hellstorm Power win: 4748 lose: 116 draw: 209
+Iron Man Power win: 4748 lose: 116 draw: 209
+Black Manta Power win: 4754 lose: 51 draw: 150
+Darth Maul Power win: 4754 lose: 10 draw: 109
+Deadpool Power win: 4754 lose: 10 draw: 109
+Evil Deadpool Power win: 4754 lose: 10 draw: 109
+Lyja Power win: 4754 lose: 51 draw: 150
+Spawn Power win: 4754 lose: 10 draw: 109
+Wolverine Power win: 4754 lose: 10 draw: 109
+Daredevil Intelligence win: 4756 lose: 51 draw: 152
+Scarlet Spider II Genius win: 4757 lose: 160 draw: 262
+Century Power win: 4758 lose: 8 draw: 111
+Tracy Strauss Power win: 4758 lose: 126 draw: 229
+Birdman Intelligence win: 4759 lose: 32 draw: 136
+Quake Power win: 4759 lose: 32 draw: 136
+Mister Zsasz Genius win: 4760 lose: 81 draw: 186
+Juggernaut Strength win: 4761 lose: 203 draw: 309
+She-Hulk Strength win: 4761 lose: 203 dr
